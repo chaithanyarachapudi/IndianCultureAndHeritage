@@ -1,2 +1,2 @@
 Indian Culture And Heritage 
-Website Link : https://github.com/chaithanyarachapudi/Indian_Culture/
+Website Link : https://chaithanyarachapudi.github.io/Indian_Culture/
